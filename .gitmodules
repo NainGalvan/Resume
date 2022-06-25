@@ -1,3 +1,15 @@
 [submodule "Yelp-Team-Project"]
 	path = Yelp-Team-Project
 	url = https://github.com/NainGalvan/Yelp-Team-Project.git
+[submodule "Mask Up/TeamMadison-Bullet_Hell_Game"]
+	path = Mask Up/TeamMadison-Bullet_Hell_Game
+	url = https://github.com/NainGalvan/TeamMadison-Bullet_Hell_Game.git
+[submodule "SpeedScore/ia8-NainGalvan"]
+	path = SpeedScore/ia8-NainGalvan
+	url = https://github.com/wsu-cpts489-fa21/ia8-NainGalvan.git
+[submodule "tuple"]
+	path = tuple
+	url = https://github.com/tuplecarpool/tuple.git
+[submodule "AI4Agile"]
+	path = AI4Agile
+	url = https://github.com/AricMonary/AI4Agile.git
