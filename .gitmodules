@@ -13,3 +13,6 @@
 [submodule "AI4Agile"]
 	path = AI4Agile
 	url = https://github.com/AricMonary/AI4Agile.git
+[submodule "WSU-CougHacks-April-2021"]
+	path = WSU-CougHacks-April-2021
+	url = https://github.com/NainGalvan/WSU-CougHacks-April-2021.git
