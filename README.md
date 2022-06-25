@@ -1,2 +1,2 @@
 # Resume
-Repos on my resume
+Projects on my resume
